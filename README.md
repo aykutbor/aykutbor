@@ -3,7 +3,7 @@
 
 🔭 I’m currently working on Software Development
 
-🌱 I’m currently learning Java , HTML & CSS, JavaScript
+🌱 I’m currently learning Java , C# , HTML & CSS, JavaScript
 
 🤝 I’m looking for help with Programming languages
 
